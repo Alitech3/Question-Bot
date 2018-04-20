@@ -1,0 +1,8 @@
+{
+    "token": "Token",
+    "bot": {
+      "plugins": [
+        "plugins.tutorial"
+      ]
+    }
+  }
