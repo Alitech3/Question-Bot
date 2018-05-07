@@ -15,12 +15,7 @@ open the properties of the command prompt inside the folder and edit its target 
 
 Links:
 <http://discordpy.readthedocs.io/en/latest/api.html#client>
-<<<<<<< HEAD
 
 <https://www.pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/>
 
 <https://b1naryth1ef.github.io/disco/bot_tutorial/intro.md>
-=======
-https://b1naryth1ef.github.io/disco/installation.html
-https://www.pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/
->>>>>>> 49ec9816b5997e2cbf1153259ace57a08acdd711
