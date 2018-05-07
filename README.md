@@ -7,7 +7,7 @@ python -m pip install disco-py
 Run Bot:
 python -m disco.cli --config config.json
 
-The command prompt in this folder is used to run the bot easily
+The command prompt in this folder is used to run the bot easier
 However it will need to be modified for whoever downloads this
 
 Command prompt modificatons:
