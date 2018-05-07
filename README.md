@@ -19,11 +19,3 @@ Links:
 <https://www.pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/>
 
 <https://b1naryth1ef.github.io/disco/bot_tutorial/intro.md>
-<<<<<<< HEAD
-=======
-
-https://b1naryth1ef.github.io/disco/installation.html
-
-https://www.pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/
-
->>>>>>> 0c0b9b6372c03cc9584474c40ed2a8ea9569e73a
