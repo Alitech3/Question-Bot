@@ -8,7 +8,7 @@ Run Bot:
 python -m disco.cli --config config.json
 
 The command prompt in this folder is used to run the bot easier
-However it will need to be modified for whoever downloads thi
+However it will need to be modified for whoever downloads this
 
 Command prompt modificatons:
 open the properties of the command prompt inside the folder and edit its target to fit your prefences aswell as where you have the file located to (if you dont change the location to where it is on your machine it will not work)
